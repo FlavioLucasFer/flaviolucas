@@ -3,11 +3,15 @@
 ### <b>About me</b>
 
 <p>
-Currently, I work as a research intern in the Perseus Project. I am also finishing a Software Engineering degree at the Federal Institute of Paraná. I have over 3  years of software development experience. Most of my software development experience is with WEB development, using technologies like JavaScript and TypeScript, Node.js, React, AdonisJs and MySQL. As a research intern, I am developing an IoT device for home monitoring patients with COVID-19, integrated into a WEB system and a mobile app by a RESTful API. The technologies used for the research were C++, React, React Native, and Laravel.
+Bachelor of Software Engineering from the Federal Institute of Paraná graduated in 2022, I am a Brazilian Software Developer, currently working as a Software Developer at GoTo.
+
+I am a full-stack software developer and my highlighted skills and experience are microservices development, web development, RESTful APIs and public APIs development, and full cycle development philosophy. My highlighted technologies are Java, JavaScript and TypeScript, Python, C++, Spring Boot and React.
+
+Also, during my university journey, I had the chance to work with IoT (Internet of Things), mobile development with React Native, and PHP. As a result of my period at the university, I wrote a paper where I made a comparative analysis of some of the most important data structures. This research was my undergraduate thesis and the paper can be read for free by following this link: https://drive.google.com/file/d/1S46S-sp5Ygqs2zGdK5KVGOT6QBsHw7Lw/edit (available in pt-BR only)
 </p>
   
 <div align="center">
-  <a href="https://github.com/FlavioLucasFer">
+  <a href="https://github.com/fl-fernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioLucasFer&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioLucasFer&layout=compact&langs_count=7&theme=moltack"/>
 </div>
